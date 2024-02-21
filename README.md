@@ -1,0 +1,2 @@
+# nextjs-dashboard
+lean nextjs
